@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# This is a modified version of the script at: https://stackoverflow.com/a/36113168
 from collections import defaultdict
 import hashlib
 import os
